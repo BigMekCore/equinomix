@@ -55,7 +55,7 @@ Legacy ERP and scoring systems fail to track real-time execution or enforce beha
 
 > “System and Method for Behavior-Based Coordination and Access Control in Decentralized Operational Networks”
 
-Filed July 15, 2025 (USPTO) by Dmitry Romanenko. 39 claims.
+Filed July 15, 2025 (USPTO) by Dmitry Romanenko. 39 claims. [Patent Application (PDF, July 2025)](./docs/Provisional_Patent_Equinomix_USPTO_2025.pdf)
 
 ---
 
