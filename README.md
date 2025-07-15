@@ -39,7 +39,10 @@ The protocol introduces a **protected coordination kernel** and modular infrastr
 
   Beyond data aggregation, the ERP also enables a remote control layer over the asset — for example, allowing the platform     to immobilize a vehicle’s engine if agreement terms are violated. As such, the ERP is not just a bookkeeping tool, but the   foundational infrastructure of trust between the investor, the operator, and the platform.
   [more about ERP](https://github.com/BigMekCore/equinomix/blob/main/docs/ERP%20Base%20Module.pdf)
-- ✅ **Normality Corridor**
+- ✅ Normality Corridor as a Behavioral Filter for Access and Predictive Risk Evaluation
+The module builds an empirical model of acceptable behavior based on ERP data—not through rigid thresholds, but by analyzing the real-life trajectories of successful participants. It continuously monitors whether the behavior of a driver or operator stays within the norm, and can predict deviations that typically lead to fines, losses, or accidents.
+Unlike static rule-based systems, the Normality Corridor leverages peer-group comparisons, robust quartile-based segmentation (QI-sat), and risk-pattern recognition to identify threats before incidents occur. It delivers access tags, recommendations, and restrictions in real time—while providing transparent explanations for its decisions. This makes it a central element of fair and predictable access governance for tokenized assets.
+[more about the module](https://github.com/BigMekCore/equinomix/blob/main/docs/Normality%20Corridor%20Module.pdf)
 - ✅ **Coaching & Responsiveness Evaluation**
 - ✅ **Smart Contract Access Layer**
 - ✅ **Composite NFTs**
