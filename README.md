@@ -1,4 +1,4 @@
-
+🇺🇸 English | [🇷🇺 Русская версия](./README_RU.md)
 # Equinomix Protocol: Behavior-Based Execution and Access Architecture
 
 **Patent-pending coordination kernel for decentralized economic systems**  
