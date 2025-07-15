@@ -43,7 +43,8 @@ The protocol introduces a **protected coordination kernel** and modular infrastr
 The module builds an empirical model of acceptable behavior based on ERP data—not through rigid thresholds, but by analyzing the real-life trajectories of successful participants. It continuously monitors whether the behavior of a driver or operator stays within the norm, and can predict deviations that typically lead to fines, losses, or accidents.
 Unlike static rule-based systems, the Normality Corridor leverages peer-group comparisons, robust quartile-based segmentation (QI-sat), and risk-pattern recognition to identify threats before incidents occur. It delivers access tags, recommendations, and restrictions in real time—while providing transparent explanations for its decisions. This makes it a central element of fair and predictable access governance for tokenized assets.
 [more about the module](https://github.com/BigMekCore/equinomix/blob/main/docs/Normality%20Corridor%20Module.pdf)
-- ✅ **Coaching & Responsiveness Evaluation**
+- ✅ **Coaching & Responsiveness Evaluation** - Coach as a Digital Mentor and Growth Tool
+The Coach module translates behavioral deviations into clear, actionable recommendations. It compares each participant to successful peers, suggests concrete steps, and tracks outcomes. No sanctions, no subjectivity — just data and a path to improvement. [more about the Coach module, its role and methods](https://github.com/BigMekCore/equinomix/blob/main/docs/Coach%20Module.pdf)
 - ✅ **Smart Contract Access Layer**
 - ✅ **Composite NFTs**
 - ✅ **Meta-Evaluation Layer**
