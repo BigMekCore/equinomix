@@ -34,6 +34,11 @@ Originally piloted in the transportation sector, the protocol is **domain-agnost
 
 The protocol introduces a **protected coordination kernel** and modular infrastructure that includes:
 
+- ✅ ERP as a Verified Data Source and Asset Control Layer
+  The self-hosted ERP system collects and aggregates telemetry, incidents, financial flows, maintenance records, and           behavioral metrics. It captures all operator actions aimed at generating income from the tokenized asset — including         trips, repairs, idle times, and payouts. This creates a uniform, observable, and indisputable stream of events, which        powers the access, coaching, normality, and yield calculation modules.
+
+  Beyond data aggregation, the ERP also enables a remote control layer over the asset — for example, allowing the platform     to immobilize a vehicle’s engine if agreement terms are violated. As such, the ERP is not just a bookkeeping tool, but the   foundational infrastructure of trust between the investor, the operator, and the platform.
+  
 - ✅ **Normality Corridor**
 - ✅ **Coaching & Responsiveness Evaluation**
 - ✅ **Smart Contract Access Layer**
