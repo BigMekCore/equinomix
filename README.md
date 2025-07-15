@@ -95,4 +95,8 @@ Next:
 
 ## 🙌 License
 
-Open-core model (protected kernel, modular interfaces).
+The protocol follows an open-core model with a protected coordination kernel.  
+Final licensing terms are under development and will reflect the architectural rent and trace compatibility principles described in the provisional patent.  
+For interim or experimental use, please contact: iam.equinomix@gmail.com
+
+🛡️ Until then, all rights are reserved by the author (Dmitry Romanenko).
