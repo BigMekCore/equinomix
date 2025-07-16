@@ -2,7 +2,7 @@
 # Equinomix: архитектурный механизм институционального исполнения
 
 **Заявка на патент подана (USPTO, 15 июля 2025)**  [Patent Application (PDF, July 2025)](./docs/Provisional_Patent_Equinomix_USPTO_2025.pdf)
-Контакт: iam.equinomix@gmail.com
+   Контакт: iam.equinomix@gmail.com
 
 ---
 
