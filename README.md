@@ -22,7 +22,7 @@ Contact: iam.equinomix@gmail.com
 
 ## 🌍 What is Equinomix?
 
-**Equinomix** is an open coordination protocol designed to embed real-world execution behavior into smart contracts, access control, and financial flows. It enables statistically verified cooperation across physical and digital actors — without relying on opaque AI models or manual enforcement.
+**Equinomix** is a coordination protocol designed to embed real-world execution behavior into smart contracts, access control, and financial flows. It enables statistically verified cooperation across physical and digital actors — without relying on opaque AI models or manual enforcement.
 
 Originally piloted in the transportation sector, the protocol is **domain-agnostic** and can be adapted to any execution-driven economy: logistics, energy, insurance, digital public infrastructure.
 
